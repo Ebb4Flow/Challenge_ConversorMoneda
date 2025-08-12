@@ -3,39 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>README - Conversor de Monedas en Java</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: auto;
-      padding: 1rem;
-      background: #f9f9f9;
-      color: #222;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    code {
-      background: #eee;
-      padding: 0.2em 0.4em;
-      border-radius: 3px;
-      font-family: Consolas, monospace;
-    }
-    pre {
-      background: #eee;
-      padding: 1em;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-    ul {
-      list-style-type: disc;
-      margin-left: 1.5rem;
-    }
-    section {
-      margin-bottom: 2rem;
-    }
-  </style>
 </head>
 <body>
 
